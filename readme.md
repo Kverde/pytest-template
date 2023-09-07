@@ -1,0 +1,1 @@
+Проект-шаблон для проекта Python с использованием [Poetry](https://python-poetry.org/) и [pytest](https://docs.pytest.org/).
